@@ -105,5 +105,10 @@ margin-bottom: 20px;
 footer:hover{
   transform: scale(1.05);
 }
+#navbar-toggler-icon , #navbar-toggler{
+  color: white;
+
+}
+
 
 
